@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076474024737",
+    "project_id": "isitcom-2c",
+    "storage_bucket": "isitcom-2c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076474024737:android:39e9b90f4c84644779e460",
+        "android_client_info": {
+          "package_name": "com.I2C.isitcom_chess_club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076474024737-soeejoqpmjnj7hnqhh7sa0jm5chja9p4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGgNKeogsp2HeBhXW_4NCa2RmID1NXL-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076474024737-soeejoqpmjnj7hnqhh7sa0jm5chja9p4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
